@@ -9,7 +9,8 @@ export default function homeMobile() {
             <div className='homeMobile_container-text'>
                 <div className='homeMobile_container-text-heading'>
                     <h1>
-                        We Build What Lasts Forever
+                        {/* We Build What Lasts Forever */}
+                        Building Creative Communities
                     </h1>
                     <p>
                         Archfirm- a place where imagination and truth collides, let us help you visualize your dream.
