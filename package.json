@@ -17,6 +17,7 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "4.0.3",
     "react-sidenav": "^4.0.6",
+    "react-simple-sidenav": "^2.0.0",
     "simple-sidenav": "^1.1.5"
   },
   "scripts": {
