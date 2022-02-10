@@ -9147,6 +9147,11 @@ react-sidenav@^4.0.6:
   resolved "https://registry.yarnpkg.com/react-sidenav/-/react-sidenav-4.0.6.tgz#4ecb2d815b81176be2ea41d1c30039bf915ebf86"
   integrity sha512-eP70waqkD8JpZRi7yxt9yapG/mRHsLXC9s9PChqmgDQ2P0YvE6GuZWvcyzWFV+qmWJWsBU404dgSo6wpz12LvQ==
 
+react-simple-sidenav@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-simple-sidenav/-/react-simple-sidenav-2.0.0.tgz#99d2ca11faab5ae2aef9ee24d4b8a83553b140b6"
+  integrity sha512-k/lIo1SyTxHAfSMa9hJ+ShcN3innV4yXUcDgzeo3DHjcZgrEejO9H9pv2ENxFPk4ClCEwJ2izfi4WLFoki/XGw==
+
 react@^17.0.2:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react/-/react-17.0.2.tgz#d0b5cc516d29eb3eee383f75b62864cfb6800037"
