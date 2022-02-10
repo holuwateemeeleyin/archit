@@ -8,22 +8,22 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-right: 2em;
-    padding-left: 2em;
+    padding-left:1.2rem;
+    padding-right: 1.2rem;
     
 }
 
 .navbar-link {
     display: flex;
     flex-direction: row;
-    width: 30%;
+    width: 25%;
     justify-content: space-around;
     cursor: pointer;
 }
 
 .navbar-link a {
     text-decoration: none;
-    color: #00ff4e;
+    color: #c200b8;
 }
 
 .logo {
@@ -33,7 +33,7 @@
 }
 
 .logo span {
-    color: #00ff4e;
+    color: #c200b8;
     padding-top: 0.4rem;
     padding-left: 0.3rem;
 }

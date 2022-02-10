@@ -1,5 +1,5 @@
 import React from 'react';
-import frontViewImage from '../../assets/6.png'
+import frontViewImage from '../../assets/arcedit.png'
 import './HomeMobile.css'
 import archImage1 from '../../assets/arch4.jpg'
 
@@ -17,7 +17,7 @@ export default function homeMobile() {
                         Aimed for the best by building with us
                     </p>
                     <div className='button_container'>
-                        <button>
+                        <button className='button_container-text'>
                             SEE MORE
                         </button>
                     </div>
@@ -32,11 +32,8 @@ export default function homeMobile() {
             <div className='galleryView_heading'>
                 <h2>Gallery</h2>
                 <p>
-                    Lorem Ip Ipsum sum em Ip Ip orem Ip Ipsum su,
-                    Lorem Ip Ipsum sum em Ip Ip orem Ip Ipsum su
                     If you open it directly in the browser, you will see an empty page.
                     You can add webfonts, meta tags, or analytics to this file.
-                    The build step will place the bundled scripts into the tag.
 
                 </p>
             </div>
@@ -74,7 +71,7 @@ export default function homeMobile() {
                 
             </div>
         </div>
-        <div className='homeMobile_Events'>
+        {/* <div className='homeMobile_Events'>
             <h3>
                 Events
             </h3>
@@ -83,6 +80,6 @@ export default function homeMobile() {
             <h2>
                 About Us
             </h2>
-        </div>
+        </div> */}
     </div>;
 }

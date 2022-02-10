@@ -6,7 +6,7 @@ export default function header() {
     return <div className='header_container_parent'>
         <div className="header_container">
             <div className="logo" >
-                <AiFillHome size={25} color='green'/> 
+                <AiFillHome size={25} color='#c200b8'/> 
                 <span>ArchFirm</span>
             </div>
             <div className="navbar-link">

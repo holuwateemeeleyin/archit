@@ -8,13 +8,21 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
 }
 
 .logoMobile {
-    font-size: larger;
-    color: #00ff4e;
+    display: flex;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color:#c200b8;
+}
+.logoMobile span {
+    padding-top: 0.4rem;
+    padding-left: 0.3rem;
+    color:#c200b8;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 @media screen and (min-width:900px) {
