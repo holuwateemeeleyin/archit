@@ -1,0 +1,28 @@
+.sidebar_link {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar_link a {
+    text-decoration: none;
+    color: #c200b8;
+}
+.sidebar_close-button {
+    position: absolute;
+    right: 10px;
+    font-size: 28px;
+}
+
+.sidebar_close-button button {
+    background-color: white;
+    color: #c200b8;
+    font-size: 25px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.close:hover {
+    color: white;
+    background-color: #c200b8;
+    border-radius: 3rem;
+}
